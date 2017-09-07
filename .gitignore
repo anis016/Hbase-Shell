@@ -1,4 +1,5 @@
 .idea
+.idea/vcs.xml
 hbase-app/.idea
 hbase-app/hbase-app.iml
 hbase-servlet/.idea
