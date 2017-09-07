@@ -10,3 +10,6 @@ Containts the basic Hbase application for connecting with hbase, manipulating ta
 
 ## [Hbase Servlet](https://github.com/anis016/Hbase-Shell/tree/master/hbase-servlet)
 Converted the [Hbase application](https://github.com/anis016/Hbase-Shell/tree/master/hbase-app) into basic servlet application.
+
+## [Hbase Ambari View](https://github.com/anis016/Hbase-Shell/tree/master/hbase-shell)
+Converted the [Hbase application](https://github.com/anis016/Hbase-Shell/tree/master/hbase-app) into ambari views.
