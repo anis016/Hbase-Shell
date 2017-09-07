@@ -1,0 +1,24 @@
+// Connection with Phoenix didn't work. Check it out later !
+        /*try {
+            App.class.forName("org.apache.phoenix.jdbc.PhoenixDriver");
+        } catch (ClassNotFoundException e) {
+            System.out.println("Class not found");
+            e.printStackTrace();
+            System.exit(1);
+        }
+        System.out.println("Driver found in the path");
+
+        try {
+            // connection = DriverManager.getConnection("jdbc:phoenix:sandbox.hortonworks.com:2181:/hbase-unsecure", "", "");
+            connection = DriverManager.getConnection("jdbc:phoenix:localhost:2181:/hbase-unsecure");
+        } catch (SQLException e) {
+            System.out.println("Connection Failed to Connect Phoenix! Check output console");
+            e.printStackTrace();
+            System.exit(1);
+        }
+
+        if (connection != null) {
+            System.out.println("You made it!");
+        } else {
+            System.out.println("Failed to make connection!");
+        }*/

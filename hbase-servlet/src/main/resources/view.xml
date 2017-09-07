@@ -1,0 +1,8 @@
+<view>
+    <name>Servlet-Intro-Example</name>
+    <label>Servlet-Intro</label>
+    <version>1.0.0</version>
+    <instance>
+        <name>INSTANCE_Servlet-Intro</name>
+    </instance>
+</view>

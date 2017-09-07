@@ -1,0 +1,7 @@
+.idea
+hbase-app/.idea
+hbase-app/hbase-app.iml
+hbase-servlet/.idea
+hbase-servlet/hbase-servlet-views.iml
+hbase-shell/.idea
+hbase-shell/hbase-shell-views.iml

@@ -1,0 +1,24 @@
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.hbase</groupId>
+    <artifactId>hbase-views</artifactId>
+    <version>0.21.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <prerequisites>
+        <maven>3.3.9</maven>
+    </prerequisites>
+
+    <modules>
+        <module>hbase-shell</module>
+        <module>hbase-app</module>
+        <module>hbase-servlet</module>
+    </modules>
+
+    <properties>
+        <ambari.version>2.0.0.0</ambari.version>
+    </properties>
+
+</project>
