@@ -12,7 +12,6 @@
     </prerequisites>
 
     <modules>
-        <module>hbase-shell</module>
         <module>hbase-app</module>
         <module>hbase-servlet</module>
     </modules>

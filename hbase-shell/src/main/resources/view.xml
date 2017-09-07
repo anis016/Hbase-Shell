@@ -1,8 +1,0 @@
-<view>
-    <name>Hbase View</name>
-    <label>Hbase View 1.0</label>
-    <version>1.0.0</version>
-    <instance>
-        <name>INSTANCE_Hbase-1.0.0</name>
-    </instance>
-</view>
